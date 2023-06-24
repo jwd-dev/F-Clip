@@ -1,0 +1,42 @@
+
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  color: #333;
+}
+
+.imageUploader {
+  margin: 15px;
+  padding: 10px;
+}
+
+.classifyButton {
+  margin: 15px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.classifyButton:hover {
+  background-color: #0056b3;
+}
+
+.errorText {
+  color: red;
+}
+
+.classifyText {
+  color: #007bff;
+}
+
