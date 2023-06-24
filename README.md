@@ -1,4 +1,4 @@
-# Image Classifier React Application
+# Image Classifier Shoes + Hats
 
 This application allows users to upload an image which is then classified using a HF model. Currently picks between shoes and hats however since the model is CLIP those categories can be added to or changed easily. 
 
