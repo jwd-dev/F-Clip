@@ -15,8 +15,8 @@ This application allows users to upload an image which is then classified using 
    pip3 install transformers
    pip3 install flask
    pip3 install flask_cors
-   pip3 install PIL
-   ```
+   pip3 install Pillow
+```
 
   Start the application by running:
 
