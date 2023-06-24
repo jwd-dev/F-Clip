@@ -6,7 +6,7 @@ import {QueryClient, QueryClientProvider, useQuery} from 'react-query';
 
 import {debounce} from 'lodash';
 import imageCompression from 'browser-image-compression';
-import styles from './App_Classification.css';
+import styles from './app.module.css';
 
 
 const convertImageToArray = async (file) => {
